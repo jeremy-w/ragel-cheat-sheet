@@ -1,7 +1,8 @@
 # Ragel Cheat Sheet
 
 [This repository](//github.com/jeremy-w/ragel-cheat-sheet) contains a cheat
-sheet I wrote for myself back in 2010. I don't use Ragel often, but the several
+sheet I wrote for myself back in 2010. I don't use [Ragel](http://www.colm.net/open-source/ragel/)
+often, but the several
 times I've used it, this cheat sheet has helped me get back up to speed quite
 quickly.
 
